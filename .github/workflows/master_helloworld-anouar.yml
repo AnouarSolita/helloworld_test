@@ -54,4 +54,4 @@ jobs:
           app-name: 'Helloworld-Anouar'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_341561B557C24AB0B3869E810A11AD27 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7EF789A120FE4DD5B5F719A579980BDB }}
